@@ -20,18 +20,15 @@ I want to attend the courses to become a professional web developer. It's a very
 
 Extracts from my projects:
 
-https://github.com/frskn9/Phone-repair 
+[GitHub](https://github.com/frskn9/Phone-repair)
 
-https://github.com/frskn9/Portfolio
-
+[GitHub](https://github.com/frskn9/Portfolio)
 
 ## Experience
 
-Project for a cell phone repair company, Oct.2019.
-http://i-storm.moscow/
+[Project for a cell phone repair company](http://i-storm.moscow/), Oct.2019.
 
-Project-portfolio for a teachers competition, Nov.2019.
-http://anastasiaenglish.ru/
+[Project-portfolio for a teachers competition](http://anastasiaenglish.ru/), Nov.2019.
 
 ## Education 
 
