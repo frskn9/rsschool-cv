@@ -31,5 +31,3 @@ https://github.com/frskn9/Portfolio
 
 http://anastasiaenglish.ru/
 
-
-
