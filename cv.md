@@ -1,13 +1,16 @@
+
 # Elena Goncharova
 
 
 Date of birth: 03.06.1994
 
-Nationality: Russian
-
-Permanent address: Saint-Petersburg, Lunacharskogo str, 78
-
 Tel: +7-911-790-8608
+
+Telegram: @ohfrskn
+
+WhatsApp: +7-911-790-8608
+
+Skype: oh.frskn
 
 ## Summary
 
@@ -27,7 +30,7 @@ https://github.com/frskn9/Portfolio
 Project for a cell phone repair company, Oct.2019.
 http://i-storm.moscow/
 
-Project-portfolio for the teacher competition, Nov.2019.
+Project-portfolio for a teachers competition, Nov.2019.
 http://anastasiaenglish.ru/
 
 ## Education 
