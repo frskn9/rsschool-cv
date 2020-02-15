@@ -9,10 +9,6 @@ Permanent address: Saint-Petersburg, Lunacharskogo str, 78
 
 Tel: +7-911-790-8608
 
-## Objective 
-
-I apply for the position Junior JS Developer in the company EPAM
-
 ## Summary
 
 I want to attend the courses to become a professional web developer. It's a very interesting, exciting and well-paid work where I can fulfill my ambitions and aspirations.
