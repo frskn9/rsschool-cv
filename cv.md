@@ -19,15 +19,29 @@ I want to attend the courses to become a professional web developer. It's a very
 
 ## Code examples
 
-Extracts from the phone repair project:
+Extracts from my projects:
 
-https://github.com/frskn9/Phone-repair
-
-http://i-storm.moscow/
-
-Extracts from the teacher`s portfolio project:
+https://github.com/frskn9/Phone-repair 
 
 https://github.com/frskn9/Portfolio
 
+
+## Experience
+
+Project for a cell phone repair company, Oct.2019.
+http://i-storm.moscow/
+
+Project-portfolio for the teacher competition, Nov.2019.
 http://anastasiaenglish.ru/
 
+## Education 
+
+**2001-2012** - Siberian Lyceum
+
+**2012-2016** - Baltic University of Economy, Policy and Low. Bachelor of Law
+
+**2019-2019** - National open education platform, C# courses
+
+**2019-2020** - National open education platform, web-programming courses
+
+**2020 to present** - National open education platform, Python courses
