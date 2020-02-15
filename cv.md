@@ -17,11 +17,19 @@ I apply for the position Junior JS Developer in the company EPAM
 
 I want to attend the courses to become a professional web developer. It's a very interesting, exciting and well-paid work where I can fulfill my ambitions and aspirations.
 
-## Education 
+## Code examples
 
-**2001-2012** - Siberian Lyceum
+Extracts from the phone repair project:
 
-**2012-2016** - Baltic University of Economy, Policy and Low
+https://github.com/frskn9/Phone-repair
 
-**2019-2019** - National open education platform, web-programming classes
+http://i-storm.moscow/
+
+Extracts from the teacher`s portfolio project:
+
+https://github.com/frskn9/Portfolio
+
+http://anastasiaenglish.ru/
+
+
 
